@@ -1,5 +1,4 @@
-
-✈️ GeoFS Extra Vehicles (extra-vehicles.jxt)
+✈️ GeoFS Extra Vehicles and Planes
 
 Welcome to the GeoFS Extra Vehicles add-on! This .jxt script expands your simulator experience by unlocking additional aircraft, ground vehicles, and community-created models directly inside GeoFS.
 
