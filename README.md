@@ -1,27 +1,55 @@
-GeoFS Extra Vehicles
-Extra vehicles in GeoFS presented by JXT. This addon includes extra vehicles such as the MD-11, food service truck, IL-76, and the Northtech RADIO (April Fools UFO).
 
-Current Version: 1.6
+✈️ GeoFS Extra Vehicles (extra-vehicles.jxt)
 
-Developer: AF267 (Discord: af267)
+Welcome to the GeoFS Extra Vehicles add-on! This .jxt script expands your simulator experience by unlocking additional aircraft, ground vehicles, and community-created models directly inside GeoFS.
 
-How To Use
-Tampermonkey (best for PC/laptop): Via the Tampermonkey Chrome extension (https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en&pli=1), copy and paste main.js into a new script. It should automatically run when you open GeoFS.
-Copy and Paste (easiest): Directly copying and pasting main.js into the GeoFS console will also run the script.
-Bookmarking (best for mobile): Copy the bookmarklet.js script into the new bookmark added. See 1:30 of this video: https://www.youtube.com/watch?v=OfpHJudRFko
-Version 1.6
-New reworked multiplayer engine
-1.6.1
-Experimental FlightGear Fokker F27 added
-Ashok Leyland bus from Jetbridge Addon added
-More Credits
-MD-11 cockpit by FlightGear and SeaBus
-E190, CRJ900, and Boeing 720 cockpit by AriakimTaiyo
-E190 cabin by FlightGear
-777x and Cessna Citation cockpit elements by Spice9
-Information
-This project is under the MIT License. Public usage and copying of the code is ONLY ALLOWED with PROPER CREDIT given to AF267 on behalf of JAaMDG and the JXT Group.
+🌟 Features
 
-For more information, visit our discord server: https://discord.gg/fcFQH6Qhb7
+• Expanded Fleet: Adds a variety of custom planes, helicopters, and ground vehicles not included in the default hangar.
+• Plug-and-Play: Lightweight script designed to run smoothly via userscript managers or browser consoles.
+• Seamless Integration: Vehicles appear directly in your GeoFS aircraft selection menu.
 
-Copyright © AF267 - 2026
+🛠️ Prerequisites
+
+Before installing, ensure you have one of the following set up:
+• A modern web browser (Chrome, Edge, Firefox, or Brave).
+• A userscript manager extension such as Tampermonkey or Violentmonkey (Recommended for automatic loading).
+
+📥 Installation Guide
+
+
+Method 1: Using Tampermonkey (Recommended)
+
+1. Install the Tampermonkey extension for your browser.
+2. Click the Tampermonkey icon and select Create a new script...
+3. Delete any default template code in the editor.
+4. Copy the entire contents of extra-vehicles.jxt and paste it into the editor.
+5. Press Ctrl + S (or Cmd + S on Mac) to save.
+6. Open or refresh GeoFS—your new vehicles will load automatically!
+
+Method 2: Browser Developer Console (Temporary)
+
+1. Launch GeoFS and wait for the simulator to finish loading.
+2. Open Developer Tools by pressing F12 or Ctrl + Shift + I (Cmd + Option + I on Mac).
+3. Navigate to the Console tab.
+4. Paste the script code into the console and press Enter.
+(Note: Using this method requires re-pasting the script every time you refresh the page.)
+
+🎮 How to Use
+
+1. Once in-game, open the Aircraft menu at the bottom of the screen.
+2. Scroll through the list to locate the newly added vehicles.
+3. Click on any vehicle to spawn and take control!
+
+⚠️ Troubleshooting & Notes
+
+• Vehicles not showing up? Make sure the script is enabled in your Tampermonkey dashboard and refresh the GeoFS tab.
+• Script Conflicts: If you run multiple GeoFS plugins simultaneously, disable other vehicle mods to prevent menu overlaps.
+• Updates: Always ensure you are using the latest version of the .jxt file to maintain compatibility with recent GeoFS updates.
+
+🤝 Contributing & Credits
+
+• Creator: [Insert Your Name/Username]
+• Platform: Built for the GeoFS Flight Simulator community.
+• Found a bug or want to suggest a vehicle? Feel free to open an issue or submit a pull request!
+Happy flying! 🛫🌍
